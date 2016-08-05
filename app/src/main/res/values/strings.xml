@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo22</string>
+
+    <string-array name="designation_name">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Asp.net</item>
+        <item>Php</item>
+        <item>Designer</item>
+        <item>Business Developer</item>
+        <item>Business Analysis</item>
+    </string-array>
+</resources>
